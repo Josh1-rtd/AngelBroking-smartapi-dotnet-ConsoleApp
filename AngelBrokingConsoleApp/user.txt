@@ -1,0 +1,8 @@
+Enter Clientcode here
+Enter MPIN here
+Paste APIkey here
+paste TOTPkeyhere
+
+
+
+#Copy into debug folder while developing
